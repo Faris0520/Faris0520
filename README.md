@@ -1,9 +1,10 @@
 ### Hai 🗿
-
+Hanya Seseorang yang sdg mempelajari bahasa pemrograman.
+n can use HTML,CSS,JS
 <!--
 Hello There 🗿
 -->
-https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung
+![](https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung)
 ![Faris0520's github stats](https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical)
 ## Get in touch 🤳
  - [Dev.to](https://dev.to/faris0520)
