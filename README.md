@@ -1,5 +1,5 @@
 ### Hai 🗿
-Hanya Seseorang yang sdg mempelajari bahasa pemrograman.
+Hanya Seseorang yang sdg mempelajari berbagai bahasa pemrograman.
 n can use HTML,CSS,JS
 <!--
 Hello There 🗿
