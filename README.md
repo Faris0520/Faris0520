@@ -7,6 +7,7 @@ Hello There 🗿
 -->
 ## Stats
 ![](https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung)
+
 ![Faris0520's github stats](https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical)
 <a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a>
