@@ -1,4 +1,5 @@
 ### Hai 🗿
+![](https://tenor.com/bALSA.gif)
 Hanya Seseorang yang sdg mempelajari berbagai bahasa pemrograman.
 n can use HTML,CSS,JS
 <!--
