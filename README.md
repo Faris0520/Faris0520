@@ -1,5 +1,6 @@
 ### Hai 🗿
-[![](https://tenor.com/bALSA.gif)](https://github.com/Faris0520)
+![](https://cdn.discordapp.com/attachments/817641073874305044/836104912051241020/tenor_9.gif)
+
 Hanya Seseorang yang sdg mempelajari berbagai bahasa pemrograman.
 n can use HTML,CSS,JS
 <!--
