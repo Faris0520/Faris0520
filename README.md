@@ -19,6 +19,7 @@ Hello There 🗿
 <h3 align="center">Stats</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a></p>
 
