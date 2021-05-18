@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Faris0520!</h2>
-<p align="center"><b>Just someone who learning various programming languages.</b></p>
+<p align="center"><b>Just someone who ... [ndaktau]</b></p>
 <p align="center"><a href="#" target="#"><img alt="pict" src="https://cdn.discordapp.com/attachments/817641073874305044/836104912051241020/tenor_9.gif" /></a></p>
 <p align="center"><img alt="SWAG" src="http://ForTheBadge.com/images/badges/built-with-swag.svg" />
 <p align="center"> <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -11,6 +11,7 @@
 
 <h3 align="center">Stats</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p>
+<p align="center"><a href="https://discord.com/users/695817459206324265" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/695817459206324265.png"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
