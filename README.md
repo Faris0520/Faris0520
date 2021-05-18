@@ -15,7 +15,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a></p>
-<p align="center">My Website<a href="https://faris0520.is-a.dev" target="_blank"><img alt="Website" src="https://pagespeed-insights.herokuapp.com/?url=https://faris0520.is-a.dev" /> </a></p>
+<p align="center">My Website<a href="https://faris0520.is-a.dev" target="_blank"><img alt="Website" src="/PUNYAKU_blyat.svg" /> </a></p>
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=false&theme=default"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p>
 
 <h4 align="center">Find Me</h4>
