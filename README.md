@@ -5,24 +5,18 @@
 <p align="center"> <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></p>
+<p align="center"><img alt="jokes" src="https://readme-jokes.vercel.app/api?theme=vue-dark"></p>
+<p align="center"><img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal"></p>
 <br />
 
-<!--
-### Hai 🗿
-![](https://cdn.discordapp.com/attachments/817641073874305044/836104912051241020/tenor_9.gif)
-
-Just someone who learning various programming languages. :ndaktau:
--->
-<!--
-Hello There 🗿
--->
 <h3 align="center">Stats</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a></p>
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=default"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p>
+<p align="center">My Website<a href="https://faris0520.is-a.dev" target="_blank"><img alt="Website" src="https://pagespeed-insights.herokuapp.com/?url=https://faris0520.is-a.dev" /> </a></p>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=false&theme=default"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p>
 
 <h4 align="center">Find Me</h4>
 <p align="center"><a href="https://github.com/Faris0520" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
