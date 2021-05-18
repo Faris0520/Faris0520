@@ -22,6 +22,7 @@ Hello There 🗿
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a></p>
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=default"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p>
 
 <h4 align="center">Find Me</h4>
 <p align="center"><a href="https://github.com/Faris0520" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
