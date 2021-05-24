@@ -31,3 +31,4 @@
 ## Discord
 [![FarisDaffa Discord](https://cdn.discordapp.com/attachments/817641073874305044/833639453725032488/1618825477362.jpg)](https://discord.com/users/695817459206324265)
 -->
+KODE SAMPAH!
