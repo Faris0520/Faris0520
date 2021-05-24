@@ -6,7 +6,6 @@
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></p>
 <p align="center"><img alt="jokes" src="https://readme-jokes.vercel.app/api?theme=vue-dark"></p>
-<p align="center"><img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal"></p>
 <br />
 
 <h3 align="center">Stats</h3>
