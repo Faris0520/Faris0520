@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+UI&color=FFFFFF&size=30&center=true&width=800&height=80&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+Faris0520%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F" /></h2>
-<p align="center"><b>Just someone who .....  ʷʰᵃᵗᵉᵛᵉʳ</b></p>
+<p align="center"><b>Just someone who make and remix the project</b></p>
 <p align="center"><a href="#" target="#"><img alt="pict" src="https://cdn.discordapp.com/attachments/817641073874305044/836104912051241020/tenor_9.gif" /></a></p>
 <!--
 <p align="center"><img alt="SWAG" src="http://ForTheBadge.com/images/badges/built-with-swag.svg" />
