@@ -26,7 +26,7 @@
 <p align="center">   </p>
 <p align="center"><a href="https://faris0520.is-a.dev" target="_blank"><img alt="Website" src="/PUNYAKU_blyat.svg" /> </a></p>
 -->
-<h4 align="center">Find Me | <cari gw></h4>
+<h4 align="center">Find Me <cari gw></h4>
 <p align="center"><a href="https://github.com/Faris0520" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://discord.com/users/695817459206324265" target="_blank"><img alt="Faris Daffa#0001" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://twitter.com/Faris0520" target="_blank"><img alt="@Faris0520" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
