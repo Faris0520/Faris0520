@@ -12,7 +12,7 @@
 
 <h3 align="center">Stats</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p>
-<p align="center"><a href="https://discord.com/users/695817459206324265" target="_blank"><img src="https://discord.c99.nl/widget/theme-2/695817459206324265.png"></p>
+<p align="center"><a href="https://discord.com/users/695817459206324265" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
