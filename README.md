@@ -7,19 +7,21 @@
 <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></p>
 -->
-<p align="center"><img alt="jokes" src="https://readme-jokes.vercel.app/api?theme=vue-dark"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p></p>
+
+<p align="center"><a href="https://discord.com/users/695817459206324265" target="_blank"/><img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p></p>
 <br />
 
-<h3 align="center">Stats</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" /> </p>
-<p align="center"><a href="https://discord.com/users/695817459206324265" target="_blank"/><img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png"></p>
+<details>
+<summary>Stats</summary>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
 <p align="center"><a href="https://myanimelist.net/profile/Faris0520">
 <img src="https://malsignature.com/?/view?username=Faris0520&style=normal"></a></p>
 -->
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=false&theme=default"><a href="https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&redirect=true"></a></p>
+</details>
 <!--
 <h5 align="center">Google LightHouse Score</h5>
 <p align="center"><a href="https://faris0520.is-a.dev">Faris0520.is-a.dev</a></p>
