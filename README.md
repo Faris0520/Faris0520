@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=segoe+UI&color=FFFFFF&size=30&center=true&width=800&height=80&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+Faris0520%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F" /></h2>
 <p align="center"><b>idk who iam</b></p>
-<p align="center"><a href="#" target="#"><img alt="pict" src="https://cdn.discordapp.com/attachments/817641073874305044/836104912051241020/tenor_9.gif" /></a></p>
+<p align="center"><a href="#" target="#"><img alt="pict" src="https://cardivo.vercel.app/api?name=Faris0520&description=needn%27t%20to%20be%20too%20detailed&image=https://cdn.discordapp.com/avatars/695817459206324265/93aabafe603029b1a9dc17c7842274ea.webp?size=1024&backgroundColor=%23ecf0f1&instagram=farrr.ss&github=Faris0520&twitter=Faris0520&pattern=leaf&colorPattern=%23eaeaea&site=faris0520.me" /></a></p>
 <!--
 <p align="center"><img alt="SWAG" src="http://ForTheBadge.com/images/badges/built-with-swag.svg" />
 <p align="center"> <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
