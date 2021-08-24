@@ -15,7 +15,7 @@
 
 <details>
 <summary>Stats</summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=radical" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=react" /> </p>
   <p align="center"><img src="https://metrics.lecoq.io/Faris0520" /> </p>
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Faris0520&theme=radical" /> </p>
