@@ -1,6 +1,7 @@
 ## ![](https://readme-typing-svg.herokuapp.com?font=segoe+UI&color=FFFFFF&size=30&width=800&height=80&center=true&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub;I'm+Faris0520%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F)
 
  - is remaking README!
+
    
   [![](http://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung)](http://github.com/faris0520)
   
