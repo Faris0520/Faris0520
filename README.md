@@ -20,5 +20,3 @@
   -->
   </details>
  
- 
-**"Skolah lgi tod, buat bot tros (utk yg skolah)"**
