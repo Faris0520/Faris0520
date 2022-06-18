@@ -10,11 +10,15 @@
 
 <details>
  <summary>GitHub Stats</summary>
-  
+    
  
-  ![](https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=github_dark&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Faris0520&theme=github-dark&hide_border=true)
+ 
+  ![](https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris0520&theme=github_dark&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris0520&theme=github_dark&layout=compact&hide_border=true)
+ 
+
  <!--
  ![](https://github-readme-stats.vercel.app/api/wakatime/?username=Faris0520&theme=github_dark&layout=compact)
   -->
