@@ -6,6 +6,8 @@
 
   
   [![Faris Discords](https://discord.c99.nl/widget/theme-4/695817459206324265.png)](https://farisdaffa.dev/discord)
+  
+  ![](https://lastfm-recently-played.vercel.app/api?user=Faris0520&count=3)
 <!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
 
 <details>
@@ -19,6 +21,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris0520&theme=github_dark&layout=compact&hide_border=true)
  
 
+  
  <!--
  ![](https://github-readme-stats.vercel.app/api/wakatime/?username=Faris0520&theme=github_dark&layout=compact)
   -->
