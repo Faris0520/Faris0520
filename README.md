@@ -11,10 +11,7 @@
 <!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
 
 <!-- ![](https://holopin.me/faris0520) -->
-<img src="https://holopin.me/faris0520" width="800px">
-<br>
-<img scr="https://github-readme-streak-stats.herokuapp.com/?user=Faris0520&theme=github-dark&hide_border=true" width="500px" align="right">
-
+<img src="https://holopin.me/faris0520" width="80%">
 <details>
  <summary>GitHub Stats</summary>
     
