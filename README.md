@@ -5,7 +5,7 @@
   
   [![Faris Discords](https://discord.c99.nl/widget/theme-4/695817459206324265.png)](https://discord.com/users/695817459206324265)
 
-   <h6># dark mode recommended #</h6>
+  <!-- <h6># dark mode recommended #</h6> -->
 
    <img src="https://holopin.me/faris0520" width="80%">
    
