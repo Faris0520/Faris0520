@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=segoe+UI&color=FFFFFF&size=30&width=500&height=50&center=true&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+page;I'm+Faris0520%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F" alt="parris">
 </p>
 
+
  <p align="center" style="margin-bottom:100px">
   <a href="http://github.com/faris0520" target="_blank">
   <img src="http://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" alt="parris"> 
@@ -22,15 +23,16 @@
 </p>
 
   <!-- <h6># dark mode recommended #</h6> -->
- <p align="center" style="margin-bottom: 20px">
-   <img src="https://holopin.me/faris0520" width="80%">
- </p>
-  <p align="center" style="margin-bottom: 20px">
+   <p align="center" style="margin-bottom: 20px">
    <img src="https://lastfm-recently-played.vercel.app/api?user=Faris0520&count=3">
 <!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
 
 <!-- ![](https://holopin.me/faris0520) -->
 </p>
+ <p align="center" style="margin-bottom: 20px">
+   <img src="https://holopin.me/faris0520" width="80%">
+ </p>
+
 <details>
  <summary>GitHub Stats</summary>
     
