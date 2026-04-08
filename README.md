@@ -20,7 +20,7 @@
   <!--<a href="https://discord.com/users/695817459206324265" target="_blank">
   <img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png" alt="parris" width="400">
   </a>-->
-  <a href="https://discord.com/users/695817459206324265"><img src="https://lanyard.cnrad.dev/api/695817459206324265?theme=dark&showDisplayName=true&hideActivity=true" /></a>
+  <!--<a href="https://discord.com/users/695817459206324265"><img src="https://lanyard.cnrad.dev/api/695817459206324265?theme=dark&showDisplayName=true&hideActivity=true" /></a>
 </p>
 
   <!-- <h6># dark mode recommended #</h6> -->
