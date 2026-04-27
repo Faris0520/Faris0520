@@ -30,13 +30,14 @@
 
 <!-- ![](https://holopin.me/faris0520) -->
 </p>
+<br/>
+<br/>
+<details>
+ <summary>GitHub Stats</summary>
+    <br/>
  <p align="center" style="margin-bottom: 20px">
    <img src="https://holopin.me/faris0520" width="80%">
  </p>
-
-<details>
- <summary>GitHub Stats</summary>
-    
  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Faris0520&theme=github-dark&hide_border=true)
  
