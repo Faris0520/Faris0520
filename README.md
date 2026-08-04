@@ -1,7 +1,7 @@
-<h2 align="left">Hi there! I'm Faris.  </h2>
+<h2 align="left">Hi there! I'm Faris.</h2>
 <h3>Currently exploring AI/ML, Software Engineering, and building scalable web applications</h3>
-
-<h3 align="left">Tech Stack:</h3>
+<h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
+<!--<h3 align="left">Tech Stack:</h3>
 
 ###
 <div align="left">
@@ -28,7 +28,7 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-</div>
+</div>-->
 
 ###
 
@@ -39,6 +39,8 @@
 * **[KursusKu](https://github.com/Faris0520/KursusKu)** – An online learning platform built with Laravel 12, offering structured learning paths, course content management, and a clean MVC-based backend architecture.
 
 * **[BankTuring](https://github.com/Faris0520/BankTuring)** – A banking system simulation developed in Python using Object-Oriented Programming (OOP), supporting account management, transactions, and balance tracking while emphasizing clean code and modular design.
+
+* **[UndangKito](https://github.com/naufalfaisa/undang-kito)** - A collaborative web-based digital invitation platform designed to simplify invitation creation, customization, and event sharing through an intuitive user interface.
 
 * **[Botdumbess](https://github.com/Faris0520/Botdumbess)** – A multi-purpose Discord bot designed for server utilities, automation, and community interaction using an event-driven architecture.
 
