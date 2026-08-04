@@ -33,23 +33,14 @@
 ###
 
 ## Top Projects
-
-* **[zestie](https://github.com/Faris0520/zestie)** – A 2D educational platformer game built with Unity (C#), featuring character movement, animations, and interactive level mechanics to create an engaging gameplay experience.
-
-* **[KursusKu](https://github.com/Faris0520/KursusKu)** – An online learning platform built with Laravel 12, offering structured learning paths, course content management, and a clean MVC-based backend architecture.
-
-* **[BankTuring](https://github.com/Faris0520/BankTuring)** – A banking system simulation developed in Python using Object-Oriented Programming (OOP), supporting account management, transactions, and balance tracking while emphasizing clean code and modular design.
-
-* **[UndangKito](https://github.com/naufalfaisa/undang-kito)** - A collaborative web-based digital invitation platform designed to simplify invitation creation, customization, and event sharing through an intuitive user interface.
-
-* **[Botdumbess](https://github.com/Faris0520/Botdumbess)** – A multi-purpose Discord bot designed for server utilities, automation, and community interaction using an event-driven architecture.
-
-* **[knapsack-web](https://github.com/Faris0520/knapsack-web)** – An interactive web-based visualization of the 0/1 Knapsack algorithm, helping users understand optimization concepts and decision-making processes.
-
-* **[AnimeDatabase](https://github.com/Faris0520/AnimeDatabase)** – An anime search application integrated with the MyAnimeList API, providing anime details, ratings, trailers, and other relevant information.
-
-* **[parris-web](https://github.com/Faris0520/parris-web)** – A personal portfolio website showcasing projects, skills, and professional profile with a responsive and modern user interface.
-
-* **[klasifikasi-gempa](https://github.com/Faris0520/klasifikasi-gempa)** – A data mining project that classifies earthquake magnitudes in Indonesia using the Gaussian Naive Bayes algorithm on a real-world dataset, implemented in Jupyter Notebook.
+- **[zestie](https://github.com/Faris0520/zestie)** – A 2D educational platformer game built with Unity (C#), featuring character movement, animations, and interactive level mechanics to create an engaging gameplay experience.
+- **[KursusKu](https://github.com/Faris0520/KursusKu)** – An online learning platform built with Laravel 12, offering structured learning paths, course content management, and a clean MVC-based backend architecture.
+- **[BankTuring](https://github.com/Faris0520/BankTuring)** – A banking system simulation developed in Python using Object-Oriented Programming (OOP), supporting account management, transactions, and balance tracking while emphasizing clean code and modular design.
+- **[UndangKito](https://github.com/naufalfaisa/undang-kito)** - A collaborative web-based digital invitation platform designed to simplify invitation creation, customization, and event sharing through an intuitive user interface.
+- **[Botdumbess](https://github.com/Faris0520/Botdumbess)** – Multi-purpose Discord bot designed for server utilities, automation, and community interaction using an event-driven architecture.
+- **[knapsack-web](https://github.com/Faris0520/knapsack-web)** – Interactive web-based visualization of the 0/1 Knapsack algorithm, helping users understand optimization concepts and decision-making processes.
+- **[AnimeDatabase](https://github.com/Faris0520/AnimeDatabase)** – Anime search application integrated with the MyAnimeList API, providing anime details, ratings, trailers, and other relevant information.
+- **[parris-web](https://github.com/Faris0520/parris-web)** – My First Personal portfolio website showcasing projects, skills, and professional profile with a responsive and modern user interface.
+- **[klasifikasi-gempa](https://github.com/Faris0520/klasifikasi-gempa)** – Data mining project that classifies earthquake magnitudes in Indonesia using the Gaussian Naive Bayes algorithm on a real-world dataset, implemented in Jupyter Notebook.
 
 ###
