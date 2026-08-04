@@ -1,5 +1,5 @@
 <h2 align="left">Hi there! I'm Faris.</h2>
-<h3>Currently exploring AI/ML, Software Engineering, and building scalable web applications</h3>
+<h3>Currently exploring AI/ML, Software Development, and building scalable web applications</h3>
 <h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
 <!--<h3 align="left">Tech Stack:</h3>
 
