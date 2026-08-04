@@ -1,58 +1,53 @@
+<h2 align="left">Hi there! I'm Faris.  </h2>
+<h3>Currently exploring AI/ML, Software Engineering, and building scalable web applications</h3>
 
-<!--<img width="2800" height="580" alt="image" src="https://github.com/user-attachments/assets/87e5644a-f114-4675-ba35-d3d89d8009c3" />-->
-<br/>
-<br/>
-<p align="center">
-  <img src="https://i.imgur.com/dIhlatA.png" alt="parris" width="350">
-</p>
+<h3 align="left">Tech Stack:</h3>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=segoe+UI&color=FFFFFF&size=30&width=500&height=50&center=true&lines=Hello+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+page;I'm+Faris0520%F0%9F%95%B5%EF%B8%8F%E2%80%8D%E2%99%80%EF%B8%8F" alt="parris">
-</p>
+###
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776A" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+</div>
 
+###
 
- <p align="center" style="margin-bottom:100px">
-  <a href="http://github.com/faris0520" target="_blank">
-  <img src="http://komarev.com/ghpvc/?username=Faris0520&label=Pengunjung" alt="parris"> 
-  </a>
-  <a href="https://wakatime.com/@2480fa13-8879-4855-99ec-1923fd9e96e6" target="_blank">
-  <img src="https://wakatime.com/badge/user/2480fa13-8879-4855-99ec-1923fd9e96e6.svg" alt="parris">
-  </a>
-</p>
+## Top Projects
 
- <p align="center"  style="margin-top:100px">
-  <!--<a href="https://discord.com/users/695817459206324265" target="_blank">
-  <img src="https://discord.c99.nl/widget/theme-4/695817459206324265.png" alt="parris" width="400">
-  </a>-->
-  <!--<a href="https://discord.com/users/695817459206324265"><img src="https://lanyard.cnrad.dev/api/695817459206324265?theme=dark&showDisplayName=true&hideActivity=true" /></a>
-</p>
+* **[zestie](https://github.com/Faris0520/zestie)** – A 2D educational platformer game built with Unity (C#), featuring character movement, animations, and interactive level mechanics to create an engaging gameplay experience.
 
-  <!-- <h6># dark mode recommended #</h6> -->
-   <p align="center" style="margin-bottom: 20px">
-<!--   <img src="https://lastfm-recently-played.vercel.app/api?user=Faris0520&count=3"> -->
-<!--  ![](https://spotify-github-profile.vercel.app/api/view?uid=7hkshek1gjho1dqys0x17jti7&cover_image=true&theme=natemoo-re)-->
+* **[KursusKu](https://github.com/Faris0520/KursusKu)** – An online learning platform built with Laravel 12, offering structured learning paths, course content management, and a clean MVC-based backend architecture.
 
-<!-- ![](https://holopin.me/faris0520) -->
-</p>
-<br/>
-<br/>
-<details>
- <summary>GitHub Stats</summary>
-    <br/>
- <p align="center" style="margin-bottom: 20px">
-   <img src="https://holopin.me/faris0520" width="80%">
- </p>
- 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Faris0520&theme=github-dark&hide_border=true)
- 
-  ![](https://github-readme-stats.vercel.app/api?username=faris0520&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faris0520&theme=github_dark&layout=compact&hide_border=true)
- 
+* **[BankTuring](https://github.com/Faris0520/BankTuring)** – A banking system simulation developed in Python using Object-Oriented Programming (OOP), supporting account management, transactions, and balance tracking while emphasizing clean code and modular design.
 
-  
- <!--
- ![](https://github-readme-stats.vercel.app/api/wakatime/?username=Faris0520&theme=github_dark&layout=compact)
-  -->
-  </details>
- 
+* **[Botdumbess](https://github.com/Faris0520/Botdumbess)** – A multi-purpose Discord bot designed for server utilities, automation, and community interaction using an event-driven architecture.
+
+* **[knapsack-web](https://github.com/Faris0520/knapsack-web)** – An interactive web-based visualization of the 0/1 Knapsack algorithm, helping users understand optimization concepts and decision-making processes.
+
+* **[AnimeDatabase](https://github.com/Faris0520/AnimeDatabase)** – An anime search application integrated with the MyAnimeList API, providing anime details, ratings, trailers, and other relevant information.
+
+* **[parris-web](https://github.com/Faris0520/parris-web)** – A personal portfolio website showcasing projects, skills, and professional profile with a responsive and modern user interface.
+
+* **[klasifikasi-gempa](https://github.com/Faris0520/klasifikasi-gempa)** – A data mining project that classifies earthquake magnitudes in Indonesia using the Gaussian Naive Bayes algorithm on a real-world dataset, implemented in Jupyter Notebook.
+
+###
