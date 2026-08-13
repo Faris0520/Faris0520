@@ -2,9 +2,7 @@
 <h3>Currently exploring AI/ML, IOT, Software Development, and building scalable web applications</h3>
 <h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
 
-<a href="http://github.com/faris0520" target="_blank">
-  <img src="http://komarev.com/ghpvc/?username=Faris0520" alt="parris"> 
-</a>
+
 <!--<h3 align="left">Tech Stack:</h3>
 
 ###
@@ -49,3 +47,9 @@
 
 ###
 
+<a href="http://github.com/faris0520" target="_blank">
+  <img src="http://komarev.com/ghpvc/?username=Faris0520" alt="parris"> 
+</a>
+<a href="https://wakatime.com/@2480fa13-8879-4855-99ec-1923fd9e96e6" target="_blank">
+  <img src="https://wakatime.com/badge/user/2480fa13-8879-4855-99ec-1923fd9e96e6.svg" alt="parris">
+</a>
