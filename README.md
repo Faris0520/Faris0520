@@ -1,6 +1,10 @@
 <h2 align="left">Hi there! I'm Faris.</h2>
 <h3>Currently exploring AI/ML, IOT, Software Development, and building scalable web applications</h3>
 <h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
+
+<a href="http://github.com/faris0520" target="_blank">
+  <img src="http://komarev.com/ghpvc/?username=Faris0520" alt="parris"> 
+</a>
 <!--<h3 align="left">Tech Stack:</h3>
 
 ###
@@ -44,3 +48,4 @@
 - **[klasifikasi-gempa](https://github.com/Faris0520/klasifikasi-gempa)** – Data mining project that classifies earthquake magnitudes in Indonesia using the Gaussian Naive Bayes algorithm on a real-world dataset, implemented in Jupyter Notebook.
 
 ###
+
