@@ -35,7 +35,7 @@
 ###
 
 ## Publication
-- **Pemodelan Prediksi Magnitudo Gempa Bumi di Indonesia Periode 2023–2025 Menggunakan Algoritma Naive Bayes** - [link](https://ejurnal.itats.ac.id/kernel/article/view/8399)
+- **Pemodelan Prediksi Magnitudo Gempa Bumi di Indonesia Periode 2023–2025 Menggunakan Algoritma Naive Bayes** - [10.31284/j.kernel.2026.v7i1.8399](https://ejurnal.itats.ac.id/kernel/article/view/8399)
 
   This study uses Gaussian Naïve Bayes to classify earthquake magnitudes based on BMKG data from 2023–2025. The model achieved 71.68% accuracy and successfully detected Strong earthquakes, indicating its potential as an initial screening tool for earthquake early warning systems.
 
