@@ -34,6 +34,11 @@
 
 ###
 
+## Publication
+- **Pemodelan Prediksi Magnitudo Gempa Bumi di Indonesia Periode 2023–2025 Menggunakan Algoritma Naive Bayes** - [link](https://ejurnal.itats.ac.id/kernel/article/view/8399)
+
+  This study uses Gaussian Naïve Bayes to classify earthquake magnitudes based on BMKG data from 2023–2025. The model achieved 71.68% accuracy and successfully detected Strong earthquakes, indicating its potential as an initial screening tool for earthquake early warning systems.
+
 ## Top Projects
 - **[zestie](https://github.com/Faris0520/zestie)** – A 2D educational platformer game built with Unity (C#), featuring character movement, animations, and interactive level mechanics to create an engaging gameplay experience.
 - **[KursusKu](https://github.com/Faris0520/KursusKu)** – An online learning platform built with Laravel 12, offering structured learning paths, course content management, and a clean MVC-based backend architecture.
