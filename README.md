@@ -2,42 +2,12 @@
 <h3>Currently exploring AI/ML, IOT, Software Development, and building scalable web applications</h3>
 <h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
 
-
-<!--<h3 align="left">Tech Stack:</h3>
-
-###
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776A" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-</div>-->
-
 ###
 
-## Publication
+## Article
 - **Pemodelan Prediksi Magnitudo Gempa Bumi di Indonesia Periode 2023–2025 Menggunakan Algoritma Naive Bayes** - [10.31284/j.kernel.2026.v7i1.8399](https://ejurnal.itats.ac.id/kernel/article/view/8399)
 
-  This study uses Gaussian Naïve Bayes to classify earthquake magnitudes based on BMKG data from 2023–2025. The model achieved 71.68% accuracy and successfully detected Strong earthquakes, indicating its potential as an initial screening tool for earthquake early warning systems.
+  This study uses Gaussian Naïve Bayes to classify earthquake magnitudes based on BMKG data from 2023-2025. The model achieved 71.68% accuracy and successfully detected Strong earthquakes, indicating its potential as an initial screening tool for earthquake early warning systems.
 
 ## Top Projects
 - **[Zestie](https://github.com/Faris0520/zestie)** – A 2D educational platformer game built with Unity (C#), featuring character movement, animations, and interactive level mechanics to create an engaging gameplay experience.
