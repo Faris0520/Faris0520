@@ -1,6 +1,6 @@
 <h2 align="left">Hi there! I'm Faris, an Informatics Student</h2>
 <h3>Currently exploring AI/ML, IoT, Software Development, and building scalable web applications</h3>
-<h3><a href="https://farisdaffa.dev">farisdaffa.dev</a></h3>
+<h3><a href="https://farisdaffa.in">farisdaffa.in</a></h3>
 
 ###
 
